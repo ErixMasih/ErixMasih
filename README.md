@@ -1,4 +1,5 @@
-## Hi there 👋
+## Building the future with code.
+Focused on AI, problem-solving, and creating things that actually matter.
 
 <!--
 **ErixMasih/ErixMasih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
